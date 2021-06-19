@@ -6,7 +6,7 @@
 
     <groupId>ssx.ssm</groupId>
     <artifactId>Fifth_SSM</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>2.0-RELEASE</version>
     <packaging>war</packaging>
     <!--<?xml version="1.0" encoding="UTF-8"?>-->
     <!--<project xmlns="http://maven.apache.org/POM/4.0.0"-->
